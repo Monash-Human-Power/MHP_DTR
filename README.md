@@ -21,4 +21,4 @@ This repo stores code required for two testing setups.
   crossings. Speed is calculated in post analysis using excel.
 - Files are transferred of the pi by using scp. A typical command could be "scp pi@192.168.100
   <INSERT>:/home/pi/Documents/MHP_DTR/Raspi_ReedSwitch/Recording_0.csv /Users/<INSERT>/Desktop" where <INSERT> specifies setup dependent
-  variables.
+  variables. Note your computer will be need to be connected to MHP_MobileNet, as will the pi used.
